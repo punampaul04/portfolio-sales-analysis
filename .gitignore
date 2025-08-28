@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Notebook outputs / images (we'll keep rendered PNGs in outputs/)
+outputs/
